@@ -1,0 +1,10 @@
+{
+  "printWidth": 120,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "jsxSingleQuote": false,
+  "semi": true,
+  "importOrder": ["^components/(.*)$", "^[./]" ]
+}
